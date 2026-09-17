@@ -6,8 +6,7 @@
 Analysis toolkit for large connectomes, built and validated on the **Drosophila BANC
 whole-CNS connectome** (169,078 neurons / 13.6M synapses; Bates et al., *Nature* 2026,
 FlyWire consortium data). Every module implements a validated experiment protocol with
-degree-preserving random controls — developed during a night-research session
-(T108–T118, 2026-09-17) and tested against the real connectome end to end.
+degree-preserving random controls and tested against the real connectome end to end.
 
 ## Install
 
