@@ -4,10 +4,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
-Analysis toolkit for large connectomes, built and validated on the **Drosophila BANC
-whole-CNS connectome** (169,078 neurons / 13.6M synapses; Bates et al., *Nature* 2026,
-FlyWire consortium data). Every module implements a validated experiment protocol with
-degree-preserving random controls and tested against the real connectome end to end.
+Analysis toolkit for large connectomes, built and validated on the **Drosophila
+BANC whole-CNS connectome** (~170k neurons / ~13.6M deduplicated directed
+connections; Bates et al., *Nature* 2026, FlyWire consortium data). Every
+module ships with degree-preserving random controls so enrichment results can
+be checked against a matched null.
 
 ## Install
 
